@@ -6,7 +6,7 @@ Repositorio para la primera práctica de Introducción a la programación FrontE
 Antes de crear el boceto y el wireframe para el sitio web, se declararon el "Buyer persona" y "Público objetivo" para poder tener una idea clara hacia quien va dirigido el proyecto (ambos fueron creados por una plantilla dado por el instructor en "miro": https://miro.com/es/plantillas/publico-objetivo/ ).
 
 
-- 🔎 Público objetivo: https://miro.com/app/board/uXjVPLoz034=/?share_link_id=513927257144
+- # 🔎 Público objetivo: https://miro.com/app/board/uXjVPLoz034=/?share_link_id=513927257144
 
   - Personas mayores de edad con problemas legales
   - Deben contar con redes sociales
@@ -18,7 +18,7 @@ Antes de crear el boceto y el wireframe para el sitio web, se declararon el "Buy
 ![32234234234](https://user-images.githubusercontent.com/114031198/202921611-9a9d2e49-c55e-4940-978b-2858ff3a0bc0.jpg)
 
 
-- 🙍‍♂️ Buyer persona: https://miro.com/app/board/uXjVPLoz034=/?share_link_id=513927257144
+- # 🙍‍♂️ Buyer persona: https://miro.com/app/board/uXjVPLoz034=/?share_link_id=513927257144
 
   - Adulto que necesite apoyo con cualquier tipo de problemática en el área legal.
   - No necesita educación superior ni requerimientos especiales para poder ser atendido.
@@ -30,7 +30,7 @@ Antes de crear el boceto y el wireframe para el sitio web, se declararon el "Buy
  ![45534534534](https://user-images.githubusercontent.com/114031198/202921620-c32abdde-d2c2-41b5-989a-579c87d18491.jpg)
 
 
-- 🌐 Datos demográficos:
+- # 🌐 Datos demográficos:
 
   - Edad: mayores de 18 años
   - Género: cualquiera
@@ -40,7 +40,7 @@ Antes de crear el boceto y el wireframe para el sitio web, se declararon el "Buy
   - Ocupación: cualquier trabajo fijo
  
  
-- 📍 Datos de ubicación:
+- # 📍 Datos de ubicación:
 
   - Perú (zonas con internet)
   - Servicio brindado solo en Perú con posible expansión a todo Hispanoamérica
@@ -52,6 +52,6 @@ Antes de crear el boceto y el wireframe para el sitio web, se declararon el "Buy
 ![5645645645](https://user-images.githubusercontent.com/114031198/202921631-6a3a7080-7190-4e9e-851b-e86e7f2ecf2e.jpg)
 
 
-- Datos psicográficos
+- # Datos psicográficos
 
   - Trabajadores de una empresa/gobierno/negocio propio.
