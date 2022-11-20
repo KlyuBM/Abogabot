@@ -19,9 +19,7 @@ Cada pantalla está separada por un título como "bienvenida", "inicio de sesió
 ![5575675635](https://user-images.githubusercontent.com/114031198/202926657-577fd751-677c-4772-b896-e6e053869da2.jpg)
 
 
-Lo mismo ocurre con la "vista de abogado" con la diferencia de que hay más opciones y pantallas.
-
-🕴
+🕴 Lo mismo ocurre con la "vista de abogado" con la diferencia de que hay más opciones y pantallas.
 
 ![757567567](https://user-images.githubusercontent.com/114031198/202926715-8f3db02b-e2df-486a-95b5-81ca36b93ee2.jpg)
 
