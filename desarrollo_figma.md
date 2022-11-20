@@ -2,6 +2,7 @@
 El UI para la creación del sitio web "Abogabot" fue creado con la herramienta "Figma" presentada como opción en la sección de práctica UI y apoyado por la grabación del live recomendado: https://web.microsoftstream.com/video/41b9721d-cde1-4ffd-bdf0-7a877d57e5e1 y con ayuda de tutoriales en Yt: https://www.youtube.com/watch?v=D56hs0Twfco
 
 📱Primero se creó el UI para la version movil de la aplicación:
+
 https://www.figma.com/file/QAAKFQoSgTX7ahLFqkC9IT/%22ABOGABOT%22-%7C-UI?t=W4wbvWIb8oaUGQiz-1
 
 ![45345345345](https://user-images.githubusercontent.com/114031198/202928523-80e8c239-5a8e-487a-b38a-69c82e026099.jpg)
