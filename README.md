@@ -3,37 +3,6 @@ Repositorio para la primera práctica de Introducción a la programación FrontE
 
 ![56456456](https://user-images.githubusercontent.com/114031198/202920380-9e3cbd3c-9dca-421b-bead-315bc6751c40.jpg)
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@KlyuBM 
-KlyuBM
-/
-Abogabot
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Abogabot/Intro
-@KlyuBM
-KlyuBM Create Intro
-…
-Latest commit e65147e 30 seconds ago
- History
- 1 contributor
-59 lines (31 sloc)  1.69 KB
-
 Antes de crear el boceto y el wireframe para el sitio web, se declararon el "Buyer persona" y "Público objetivo" para poder tener una idea clara hacia quien va dirigido el proyecto (ambos fueron creados por una plantilla dado por el instructor en "miro": https://miro.com/app/board/uXjVPLoz034=/?share_link_id=352390986334 ).
 
 
